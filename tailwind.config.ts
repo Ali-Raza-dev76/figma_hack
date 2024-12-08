@@ -9,7 +9,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
+        section_color: "#F0F2F3",
+        button_color:"#029FAE",
+        text_color: "#272343",
+        nav_color: "#007580",
+        background: "#ffffff",
         foreground: "var(--foreground)",
       },
     },
